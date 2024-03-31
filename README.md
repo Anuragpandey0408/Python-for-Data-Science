@@ -1,1 +1,1 @@
-# Python-for-Data-Science
+I am learning python and SQL connectivity
